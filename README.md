@@ -1,14 +1,6 @@
 # 👋 Hello there, I'm Sirui Zou
 
-<a href="https://github.com/harry51888">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harry51888&show_icons=true&theme=radical&rank_icon=github" />
-</a>
-<a href="https://github.com/harry51888">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry51888&layout=compact&theme=radical" />
-</a>
 
-
------
 
 ### 👨‍💻 About Me
 
