@@ -77,11 +77,7 @@ SWUFE's open-source course review platform — search courses, rate instructors,
 ## Skills
 
 ```
-Languages   Python (PyTorch, Pandas, NumPy) · TypeScript · SQL · Stata · LaTeX
-Backend     FastAPI · Django REST · PostgreSQL · Redis · SQLite
-Frontend    Next.js · React · D3.js · Ant Design
-AI / ML     LangChain · RAG · ChromaDB · LLM fine-tuning · Qwen · GPT · Claude
-DevOps      Docker · Nginx · Linux · Git
+Python (PyTorch, Pandas, NumPy), SQL, Stata, LaTeX, Linux, Docker, Git
 ```
 
 ---
