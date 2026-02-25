@@ -1,67 +1,116 @@
-# 👋 Hello there, I'm Sirui Zou
+<div align="center">
 
+# Hi, I'm Sirui Zou 👋
 
+**Economics × Computational Social Science**
 
-### 👨‍💻 About Me
+*UC Berkeley (BGA) · SWUFE · ACL 2026 (Under Review)*
 
-I'm an Economics undergraduate at **Southwestern University of Finance and Economics (SWUFE)**, on a journey to explore the powerful intersection of finance, data, and technology.
+[![Email](https://img.shields.io/badge/Email-siruizou2005%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siruizou2005@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/siruizou2005?style=flat&logo=github)](https://github.com/siruizou2005)
 
-My path isn't just about theories and models; it's about building tangible solutions. When I saw the potential of early generative AI, I co-founded a translation studio to apply it practically. When I noticed the course selection anxiety among my peers, I led a team to build an online community to solve that exact problem.
+</div>
 
-My academic pursuits, from a summer school in **Quantitative Finance at Peking University** to my upcoming global access program at **UC Berkeley**, are all fueling my core passion: using quantitative skills and code to innovate within the economic and financial world.
+---
 
------
+## About Me
 
-### 🚀 What I'm Up To
+I'm an Economics undergraduate at **Southwestern University of Finance and Economics**, currently is a visiting student at **UC Berkeley** focusing on Econometrics and Computational Social Science.
 
-  - 🎓 Studying **Economics** in the Top-notch Student Training Base at SWUFE.
-  - 💡 Diving deeper into **Quantitative Finance**, exploring everything from Stochastic Calculus to Automated Market Maker models.
-  - 🌐 Preparing for my exchange semester at the **University of California, Berkeley**.
-  - 🌱 Always looking for the next problem to solve with a blend of code and creativity.
+My work sits at the intersection of **large language models, agent systems, and empirical economics** — building things that are both technically rigorous and practically meaningful.
 
------
+- 📄 **Co-first Author** on a paper submitted to **ACL 2026** — a dual-process cognitive architecture for role-playing agents that reduces persona drift by 75% and token cost by 87%
+- 🔬 **Research Assistant** at SWUFE School of Economics, building an NLP pipeline over 3–5M government documents to quantify consumption policy intensity and its macroeconomic impact
+- 🏆 **Global 3rd Prize** at the 2025 Soul AI Agent Competition with ScrollWeaver
 
-### 🛠️ My Toolkit
+---
 
-**Languages & Frameworks:**
+## Research & Projects
 
-<p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-</p>
+### 🧠 PersonaForge — Role-Playing Agent with Dual-Process Architecture
+*Co-first Author · Submitted to ACL 2026 (Under Rolling Review)*
 
+Designed a cognitive architecture fusing "System 1/2" thinking with Big Five personality traits to solve **LLM persona drift** in long-horizon simulations.
+- **−75%** persona drift · **−87%** token cost · **96%** performance retained across 50-turn dialogues with 88 characters
 
-**Fields of Interest:**
+---
 
-<p>
-  <a href="#"><img alt="Quantitative Finance" src="https://img.shields.io/badge/-Quantitative%20Finance-blueviolet?style=for-the-badge"></a>
-  <a href="#"><img alt="AI & Machine Learning" src="https://img.shields.io/badge/-AI%20&%20Machine%20Learning-orange?style=for-the-badge"></a>
-  <a href="#"><img alt="Web Development" src="https://img.shields.io/badge/-Web%20Development-blue?style=for-the-badge"></a>
-</p>
+### 📜 [ScrollWeaver](https://github.com/siruizou2005/ScrollWeaver) — Multi-Agent Social Simulation Engine
+*Team Lead · 🏆 Global 3rd Prize, 2025 Soul AI Agent Competition*
 
+A simulation engine that transforms static texts (novels, lore docs) into interactive living worlds.
 
------
+**Stack:** LangChain · FastAPI · WebSockets · ChromaDB · SQLite · D3.js · GPT / Claude
 
-### ✨ My Projects
+- Orchestrator-Performer architecture: a world-director agent coordinates character agents with persistent memory, personality models, and autonomous social logic
+- Real-time 24×12 SVG world map, RAG-powered lore extraction, and exportable world state
+- Live demo: [scrollweaver.harrycn.com](https://scrollweaver.harrycn.com)
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **西财评课社区 (SWUFE Course Review)** | A full-stack community platform I led to help students at my university make informed course selections. | `Django`, `Next.js` | [**Live Site**](http://class.swufe.chat) / [**GitHub Repo**](https://github.com/harry51888/jcourse-swufe) |
-| **槟榕翻译工作室 (Bingrong Translation)** | An entrepreneurial venture I co-founded, leveraging AI (like ChatGPT) combined with manual proofreading to provide high-quality translation services. | `AI Tools` | --- |
+---
 
------
+### 🌐 [Course Prism](https://github.com/siruizou2005/Course-Prism) — Course Evaluation Community
+*Solo Developer · [class.swufe.chat](https://class.swufe.chat)*
 
-### 🌍 Beyond the Code
+SWUFE's open-source course review platform — search courses, rate instructors, view analytics.
 
-I believe technology is about people. My passion for building extends to building communities. I've had the privilege of serving as:
+**Stack:** Next.js · React · Django REST · PostgreSQL · Redis · Docker · Nginx
 
-  - **Project Lead** for a Peer Tutoring Program.
-  - **Head of External Relations** for my high school's Student Union.
-  - **Board Member** for the Class of 2024 Alumni Association.
+- Full auth system, async task queues (Huey), visitor analytics, instructor rating
+- One-click Docker Compose deployment with automated backup and recovery
 
------
+---
 
-### 📫 Get In Touch
+### 🤖 [Grader](https://github.com/siruizou2005/Grader) — AI-Powered Homework Grading
+*AI-powered PDF submission & auto-grading via Gemini, with class analytics*
 
-  - **Email:** [harry@jinqitrip.com](mailto:harry@jinqitrip.com)
+**Stack:** React · TypeScript · FastAPI · SQLite · Gemini API
+
+---
+
+### 🏫 [Mentis Web](https://github.com/siruizou2005/mentis-web) — AI Teaching Resource Platform
+*Nonprofit landing page for [jiaocaibang.com](https://www.jiaocaibang.com) — AI tools for educators*
+
+**Stack:** React · TypeScript · Vite · Node.js
+
+---
+
+## Skills
+
+```
+Languages   Python (PyTorch, Pandas, NumPy) · TypeScript · SQL · Stata · LaTeX
+Backend     FastAPI · Django REST · PostgreSQL · Redis · SQLite
+Frontend    Next.js · React · D3.js · Ant Design
+AI / ML     LangChain · RAG · ChromaDB · LLM fine-tuning · Qwen · GPT · Claude
+DevOps      Docker · Nginx · Linux · Git
+```
+
+---
+
+## Education
+
+| | |
+|---|---|
+| **UC Berkeley** — BGA Program | Jan 2026 – May 2026 |
+| *Focus: Economics & Computational Social Science* | Berkeley, CA |
+| **Peking University** — Summer School: Quantitative Finance | Jul – Aug 2025 |
+| *Grade: A+ · Top 10/150* | Beijing |
+| **SWUFE** — B.Econ, Economics | Sep 2024 – Jun 2028 |
+| *GPA 3.9/4.0 · GRE Quant 170/170 · GMAT FE 655 (Top 9% Globally)* | Chengdu |
+
+---
+
+## Interests
+
+**Computational Social Science · NLP · LLM Agents · Econometrics · Quantitative Finance**
+
+I'm interested in using language models as measurement instruments for social science — treating text at scale as economic data.
+
+---
+
+<div align="center">
+
+*Open to research collaborations and interesting problems.*
+**siruizou2005@gmail.com**
+
+</div>
+
