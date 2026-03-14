@@ -27,14 +27,6 @@ My work sits at the intersection of **large language models, agent systems, and 
 
 ## Research & Projects
 
-### 🧠 PersonaForge — Role-Playing Agent with Dual-Process Architecture
-*Co-first Author · Submitted to ACL 2026 (Under Rolling Review)*
-
-Designed a cognitive architecture fusing "System 1/2" thinking with Big Five personality traits to solve **LLM persona drift** in long-horizon simulations.
-- **−75%** persona drift · **−87%** token cost · **96%** performance retained across 50-turn dialogues with 88 characters
-
----
-
 ### 📜 [ScrollWeaver](https://github.com/siruizou2005/ScrollWeaver) — Multi-Agent Social Simulation Engine
 *Team Lead · 🏆 Global 3rd Prize, 2025 Soul AI Agent Competition*
 
