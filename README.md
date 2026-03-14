@@ -19,7 +19,6 @@ I'm an Economics undergraduate at **Southwestern University of Finance and Econo
 
 My work sits at the intersection of **large language models, agent systems, and empirical economics** — building things that are both technically rigorous and practically meaningful.
 
-- 📄 **Co-first Author** on a paper submitted to **ACL 2026** — a dual-process cognitive architecture for role-playing agents that reduces persona drift by 75% and token cost by 87%
 - 🔬 **Research Assistant** at SWUFE School of Economics, building an NLP pipeline over 3–5M government documents to quantify consumption policy intensity and its macroeconomic impact
 - 🏆 **Global 3rd Prize** at the 2025 Soul AI Agent Competition with ScrollWeaver
 
